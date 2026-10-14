@@ -1,0 +1,98 @@
+.card {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.features {
+    padding: 40px 0;
+}
+
+.feature-item {
+    text-align: center;
+    padding: 20px;
+}
+
+.feature-item h3 {
+    margin-top: 15px;
+    font-size: 22px;
+}
+
+.feature-item p {
+    color: #666;
+}
+.hero {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #f0f4ff;
+}
+
+.hero h1 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 25px;
+}
+
+.hero .btn {
+    padding: 12px 28px;
+}
+.navbar {
+    padding: 15px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.nav-link {
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #0d6efd;
+}
+.card {
+    margin-bottom: 20px;
+}
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    margin-bottom: 12px;
+}
+
+.card .btn {
+    margin-top: 8px;
+}
+.feature-icon {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+.features h2 {
+    margin-bottom: 35px;
+    font-weight: bold;
+}
+.hero .btn {
+    transition: background-color 0.3s ease,
+                transform 0.3s ease;
+}
+
+.hero .btn:hover {
+    background-color: #0b5ed7;
+    transform: translateY(-3px);
+}
